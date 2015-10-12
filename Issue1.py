@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 from pipedrive import Pipedrive
-pd = Pipedrive('dc8fe731bb412373b21482cdb0a8a73c265afb18')
+pd = Pipedrive('pipedrive_token')
                        # ^ insert API token
                        
 
