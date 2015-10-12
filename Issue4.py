@@ -20,7 +20,6 @@ new = pd.activities.post({       # create corresponding activity
     "subject": "click_to_call",
     "type": "call",
     "duration": call.duration,
-    "note": "test1",
     "deal_id": "693"
     })
 
