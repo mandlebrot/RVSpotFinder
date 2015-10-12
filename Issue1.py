@@ -32,11 +32,3 @@ Deal2 = pd.deals.get(id=693)
 EAAR2 = Deal2.value
 
 print 'Value is now ', EAAR2
-
-
-'''
- dc8fe731bb412373b21482cdb0a8a73c265afb18 (API token)
- 936fba7d7033c7e1a0369820f93991f5a3849df7 (field_key)  12467 (field_id)
- 693 (deal_id)
- "Estimated Avg Annual Revenue" (field_name)
-'''
