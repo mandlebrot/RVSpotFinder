@@ -5,7 +5,7 @@ UI must be written and integrated.<br/><br/>
 
 ### Usage
 
-Please edit `localsettings.py` with auth tokens, etc.
+Please edit `local_settings.py` with auth tokens, etc.
 
 `issue4app.py` contains all Pipedrive code, 
 enter auth tokens, etc. for PD here.
